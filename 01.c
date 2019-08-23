@@ -1,3 +1,5 @@
-include <>
+# include <stdio.h>
 
-G
+
+const int len=10;
+
